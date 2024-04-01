@@ -1,4 +1,4 @@
-titulo.innerHTML = '06 - ...'
+titulo.innerHTML = '06 - spread operator';
 // Veamos como añadir un elemento a un arreglo utilizando el Spread Operator o Rest Operator...
 const carrito = [];
 

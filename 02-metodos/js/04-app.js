@@ -1,3 +1,4 @@
+titulo.innerHTML = '04 - Filter ';
 // Otro Array Method que quiero mostrarte es filter...
 
 // Filter va a crearte un arreglo basado en un parametro que es evaluado..

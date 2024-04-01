@@ -1,4 +1,4 @@
-titulo.innerHTML = '07  - Métodos array';
+titulo.innerHTML = '07  - borrado pop shift splice';
 document.getElementById('texto').innerHTML='<p><p>Sintaxis:</p><ul><li>array.push("valor")</li><li>array.unshift("valor")</li><li>array.pop()</li><li>array.shift()</li></ul>';
 
 

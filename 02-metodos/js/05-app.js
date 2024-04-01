@@ -1,4 +1,4 @@
-// en este video estaremos viendo FIND.
+titulo.innerHTML = '05 - Find';
 
 // fiND te creará un arreglo nuevo en base al primer resultado que sea true...
 

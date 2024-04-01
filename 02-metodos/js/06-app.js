@@ -1,4 +1,4 @@
-// En este video estaremos viendo every...
+titulo.innerHTML = '06 - every';
 
 // Every es raro, ya que todos los elementos del arreglo deberán cumplir esa condición..
 const carrito = [
